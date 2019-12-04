@@ -1,0 +1,23 @@
+{
+	"category" : "LayerCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"form",
+		"commands",
+		"index",
+		"dirty",
+		"xMin",
+		"xMax",
+		"yMax",
+		"yMin",
+		"transform",
+		"clipRect" ],
+	"name" : "OGLLayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

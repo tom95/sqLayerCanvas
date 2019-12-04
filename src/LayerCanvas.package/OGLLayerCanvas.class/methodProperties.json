@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beginRecording" : "tobe 10/6/2019 12:31",
+		"clipBy:during:" : "tobe 10/6/2019 12:22",
+		"clipRect" : "tobe 10/6/2019 13:41",
+		"contentsOfArea:into:" : "tobe 10/6/2019 08:55",
+		"currentLayer" : "tobe 10/6/2019 11:02",
+		"destinationCanvas:" : "tobe 10/6/2019 11:25",
+		"drawPolygon:color:borderWidth:borderColor:" : "tobe 10/6/2019 08:55",
+		"drawString:from:to:in:font:color:" : "tobe 10/6/2019 08:56",
+		"extent" : "tobe 10/6/2019 08:56",
+		"fillOval:color:borderWidth:borderColor:" : "tobe 10/6/2019 08:56",
+		"flush" : "tobe 10/6/2019 12:11",
+		"frameAndFillRectangle:fillColor:borderWidth:borderColor:" : "tobe 10/6/2019 08:57",
+		"image:at:sourceRect:rule:" : "tobe 10/6/2019 09:00",
+		"initialize" : "tobe 10/6/2019 12:10",
+		"line:to:width:color:" : "tobe 10/6/2019 08:57",
+		"origin" : "tobe 10/6/2019 08:57",
+		"paragraph:bounds:color:" : "tobe 10/6/2019 08:57",
+		"pushLayer:clipRect:" : "tobe 10/6/2019 13:34",
+		"stencil:at:sourceRect:color:" : "tobe 10/6/2019 08:58",
+		"transformBy:clippingTo:during:smoothing:" : "tobe 10/6/2019 17:19",
+		"translateBy:during:" : "tobe 10/6/2019 12:21",
+		"warpImage:transform:at:sourceRect:cellSize:" : "tobe 10/6/2019 08:59" } }

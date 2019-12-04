@@ -1,0 +1,16 @@
+{
+	"category" : "LayerCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"arguments",
+		"hash" ],
+	"name" : "OGLCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

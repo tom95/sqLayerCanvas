@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beginRecording" : "tobe 10/6/2019 10:57",
+		"clipRect" : "tobe 10/6/2019 12:36",
+		"clipRect:" : "tobe 10/6/2019 12:31",
+		"drawOn:" : "tobe 10/6/2019 12:22",
+		"drawString:from:to:in:font:color:" : "tobe 10/6/2019 17:26",
+		"fillOval:color:borderWidth:borderColor:" : "tobe 10/6/2019 17:26",
+		"finishRecording" : "tobe 10/6/2019 12:33",
+		"form" : "tobe 10/6/2019 11:02",
+		"frameAndFillRectangle:fillColor:borderWidth:borderColor:" : "tobe 10/6/2019 10:54",
+		"globalClipRect" : "tobe 10/6/2019 13:40",
+		"image:at:sourceRect:rule:" : "tobe 10/6/2019 10:56",
+		"initialize" : "tobe 10/6/2019 10:57",
+		"line:to:width:color:" : "tobe 10/6/2019 10:50",
+		"paragraph:bounds:color:" : "tobe 10/6/2019 10:52",
+		"record:arguments:" : "tobe 10/6/2019 08:52",
+		"setCommandAt:to:arguments:" : "tobe 10/6/2019 11:04",
+		"transform" : "tobe 10/6/2019 11:45",
+		"transform:" : "tobe 10/6/2019 11:45" } }

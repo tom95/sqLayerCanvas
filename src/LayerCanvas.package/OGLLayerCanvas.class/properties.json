@@ -1,0 +1,16 @@
+{
+	"category" : "LayerCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"layers",
+		"currentLayer",
+		"destinationCanvas" ],
+	"name" : "OGLLayerCanvas",
+	"pools" : [
+		 ],
+	"super" : "Canvas",
+	"type" : "normal" }

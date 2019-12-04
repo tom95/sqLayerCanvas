@@ -1,0 +1,4 @@
+recording
+currentLayer
+
+	^ currentLayer
